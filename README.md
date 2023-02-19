@@ -35,9 +35,9 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/pedropamn/fastdandfe/issues">Reportar um  Bug</a>
+    <a href="https://github.com/pedropamn/fastdanfe/issues">Reportar um  Bug</a>
     ·
-    <a href="https://github.com/pedropamn/fastdandfe/issues">Sugerir funcionalidade</a>
+    <a href="https://github.com/pedropamn/fastdanfe/issues">Sugerir funcionalidade</a>
   </p>
 </div>
 
