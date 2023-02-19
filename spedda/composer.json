@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nfephp-org/sped-nfe": "^5.0",
+        "nfephp-org/sped-da": "^0.1.23"
+    }
+}

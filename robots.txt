@@ -1,0 +1,11 @@
+
+Disallow: /xml/
+
+Disallow: /pdf/
+
+Disallow: /zip/
+Disallow: /cssmenu/
+
+Disallow: /spedda/
+
+Disallow: /tcpdf/
