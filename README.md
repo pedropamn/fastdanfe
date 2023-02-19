@@ -48,12 +48,16 @@
 ## Sobre o projeto
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pedropamn/fastdanfe/main/screenshot.png" width="1500" height="500" />
+  <img src="https://raw.githubusercontent.com/pedropamn/fastdanfe/main/screenshot.png" width="1200" height="500" />
 </div>
 
 <br><br>
 
-FastDANFE é um website desenvolvido em PHP para conversão de XML's em DANFE em PDF. Use para conversão individual ou em lote, gerando um arquivo ZIP, que pode ser protegido com senha
+FastDANFE é um website desenvolvido em PHP para conversão de XML's em DANFE em PDF. Envie seus arquivos e obtenha suas NF's em segundos!
+
+* 🔁 Conversão de múltiplos arquivos
+* ⬇️ Download ZIP
+* 🔒 Proteja seus DANFE's com senha
 
 
 
