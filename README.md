@@ -48,7 +48,7 @@
 ## Sobre o projeto
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pedropamn/fastdanfe/main/screenshot.png" width="1200" height="500" />
+  <img src="https://raw.githubusercontent.com/pedropamn/fastdanfe/main/screenshot.png" width="900" height="400" />
 </div>
 
 <br><br>
