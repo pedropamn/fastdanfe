@@ -83,15 +83,15 @@ O projeto utiliza a biblioteca `nfe-php`
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Proteger arquivo zip fina com senha
+- [x] Proteger arquivo zip com senha
 - [ ] Impedir PDF's inválidos de aparecerem dentro do ZIP (assim como no merge) e avisar o usuário
 - [ ] DANFE com Logotipo (o usuário selecionar um logotipo para aparecer em todos os DANFEs)
 - [ ] Suporte a DACTE
 - [ ] Usar apenas chave de acesso
 - [ ] Salvar na nuvem automatica ou manualmente (Dropbox, Box, etc,)
 - [ ] API (Endpoint que recebe um arquivo XML e retorna um PDF)
-- [ ] Cliente Desktop que monitora XML's em determinada pasta e gera POF's automaticamente em outra pasta (Via API)
-- [ ] Geração de um relatório depois do Upload de vários XML'S (Clientes, Valores, Datas, etc), exportavel para PDF Excel
+- [ ] Cliente Desktop que monitora XML's em determinada pasta e gera PDF's automaticamente em outra pasta (Via API)
+- [ ] Geração de um relatório depois do Upload de vários XML'S (Clientes, Valores, Datas, etc), exportavel para PDF e Excel
 - [ ] Encrypt/Decrypt arquivos XML, deixando os ilegíveis, mediante senha
 
 
