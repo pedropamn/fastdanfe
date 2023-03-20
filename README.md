@@ -33,6 +33,8 @@
     Converta XML's em DANFE's em PDF
     <br />    
     <br />
+    <a target="_blank" href="https://www.pedronetoweb.com.br/apps-files/fastdanfe/index.php"><img src="https://img.shields.io/badge/-Acessar Agora!-blue?style=for-the-badge&logo=Google Chrome&logoColor=white" width="250"/></a>
+    <br />
     <br />
     ·
     <a href="https://github.com/pedropamn/fastdanfe/issues">Reportar um  Bug</a>
