@@ -41,7 +41,7 @@ $senha = trim($_GET['senha']);
 			
 			$localxml = $pasta_xml.'/'.$file;	
 			$ch = curl_init();
-			curl_setopt($ch, CURLOPT_URL,$_SERVER['SERVER_NAME']."/spedda/danfe.php?id={$id}");
+			curl_setopt($ch, CURLOPT_URL,$_SERVER['SERVER_NAME']."/spedda/danfe.php?id={$id}"); //Ajuste as subpastas, se necessário
 			curl_setopt($ch, CURLOPT_POST, 1);
 			curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query(array('localxml' => $localxml)));
 			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
